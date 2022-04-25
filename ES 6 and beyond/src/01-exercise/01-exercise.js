@@ -16,8 +16,8 @@
  */
 
 // Finish the code of the function
-function exercise01(a = 1, b= 1) {
-    a * b;
+function exercise01(a = 1, b = 1) {
+    return a * b;
 
 }
 
